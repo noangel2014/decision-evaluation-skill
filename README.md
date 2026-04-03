@@ -25,7 +25,7 @@ The **Decision Evaluation Skill** is a comprehensive AI-powered tool that helps 
 1. **Clone or Download this Repository**
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/decision-evaluation-skill.git
+   git clone https://github.com/noangel2014/decision-evaluation-skill.git
    
    # Or download as ZIP and extract
    ```
@@ -269,15 +269,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: [GitHub Issues](https://github.com/noangel2014/decision-evaluation-skill/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/noangel2014/decision-evaluation-skill/discussions)
 - **Documentation**: Full documentation available in the `references/` directory
-
-## 🗺️ Roadmap
-
-- [ ] Add quick analysis mode (3 frameworks instead of 7)
-- [ ] Support for custom framework selection
-- [ ] Multi-language support
-- [ ] Decision history tracking (optional, privacy-focused)
-- [ ] Export reports to PDF/Markdown
-- [ ] Integration with popular note-taking apps
 
 ---
 
